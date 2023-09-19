@@ -11,7 +11,7 @@ function Card() {
         <h2 className="card-title">Deadpool!</h2>
         <p>Ajax, a twisted scientist, experiments on Wade Wilson, a mercenary, to cure him of cancer and give him healing powers. However, the experiment leaves Wade disfigured and he decides to exact revenge.</p>
         <div className="card-actions">
-          <button className="btn btn-primary">Buy Now</button>
+          <button className="btn btn-primary w-full">See More</button>
         </div>
       </div>
     </div>
